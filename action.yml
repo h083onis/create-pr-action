@@ -1,4 +1,4 @@
-name: Create PR
+name: Create Pull Request vO2
 description: |
   変更したファイルをコミットし、プルリクエストを作成します。
   プルリクエストのタイトルや本文には、コミットメッセージがそのまま利用されます。
